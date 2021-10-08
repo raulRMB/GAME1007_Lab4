@@ -1,8 +1,12 @@
 #include <iostream>
 
-int main()
+int Run()
 {
-	
 
 	return 0;
+}
+
+int main()
+{
+	return Run();
 }
